@@ -64,3 +64,7 @@ My name is Aynur, and I am a beginner QA engineer. Here, I share projects develo
 - Basic Commands in Bash  
   - [Link to the folder](https://drive.google.com/drive/folders/1xh9lXtmLcADAbijLe1-9WLqeEb5jIWPv?usp=sharing)  
     Executing basic bash commands for file handling, process management, and system monitoring, as part of the QA testing environment setup.
+
+## Contact Information
+
+If you want to get in touch with me, feel free to reach out via email: [Aliieva-ainura@mail.ru](mailto:Aliieva-ainura@mail.ru)
